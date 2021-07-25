@@ -6,7 +6,7 @@ const ImagelinkForm = ({onSubmit, onInputChange}) =>{
     return(
         <div>
         <p className="f3">
-            {"Kiran's FaceAI will detect our or your Picture.Try this one and just mesmerize!"}
+            {"Goli's FaceAI will detect our or your Picture.Try this one and just mesmerize!"}
         </p>
         {/* <div className="alignCenter"> */}
         <div className="form">
